@@ -1,7 +1,7 @@
 {
-  "name": "@matanlurey/node-typescript-template",
+  "name": "@matanlurey/tts-playground",
   "version": "0.1.0",
-  "description": "Node.js template for TypeScript",
+  "description": "A demo mod for Tabletop Simulator",
   "scripts": {
     "fix": "prettier --write . --ignore-path .gitignore && eslint --fix src test --ext .ts",
     "lint": "prettier --ignore-path .gitignore --list-different src && eslint src test --ext .ts",
@@ -9,11 +9,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matanlurey/node-typescript-template.git"
+    "url": "git+https://github.com/matanlurey/tts-playground.git"
   },
-  "main": "src/index.ts",
   "author": "Matan Lurey",
-  "keywords": [],
   "license": "MIT",
   "devDependencies": {
     "@types/fs-extra": "^8.1.0",
