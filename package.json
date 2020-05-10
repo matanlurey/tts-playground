@@ -4,8 +4,8 @@
   "description": "A demo mod for Tabletop Simulator",
   "scripts": {
     "extract": "ts-node ./tool/extract.ts",
-    "fix": "prettier --write . --ignore-path .gitignore && eslint --fix src test --ext .ts",
-    "lint": "prettier --ignore-path .gitignore --list-different src && eslint src test --ext .ts",
+    "fix": "prettier --write . --ignore-path .prettierignore && eslint --fix src test --ext .ts",
+    "lint": "prettier --ignore-path .prettierignore --list-different src && eslint src test --ext .ts",
     "start": "ts-node ./src/index.ts",
     "test": "jest"
   },

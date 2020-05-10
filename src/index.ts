@@ -1,5 +1,7 @@
 import * as expander from '@matanlurey/tts-expander';
-import Editor, { IncomingJsonObject, OutgoingJsonObject } from '@matanlurey/tts-editor';
+import Editor, {
+  OutgoingJsonObject,
+} from '@matanlurey/tts-editor';
 import * as steam from '@matanlurey/tts-runner/steam_finder';
 import * as runner from '@matanlurey/tts-runner';
 import * as fs from 'fs-extra';
@@ -93,7 +95,7 @@ async function deleteAutoExec(): Promise<void> {
 
   console.log('Watching...');
   const watcher = chokidar.watch(path.join('dist', 'edit'));
-  watcher.on('change', file => {
+  watcher.on('change', (file) => {
     const guid = path.basename(file).split('.')[0];
     const base = path.join(path.dirname(file), guid);
     const lua = `${base}.lua`;
@@ -114,7 +116,7 @@ async function deleteAutoExec(): Promise<void> {
   console.log('Launching...');
   const tts = await runner.launch();
 
-  editor.on('pushingNewObject', event => {
+  editor.on('pushingNewObject', (event) => {
     // TODO: If this is an existing script, we should just notify the user.
     //
     // Add a new file to dist/edit, and watch that folder for changes.
