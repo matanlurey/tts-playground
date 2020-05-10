@@ -2,12 +2,12 @@
   "Object": {
     "Name": "BlockSquare",
     "Transform": {
-      "posX": -0.408049047,
+      "posX": -0.4080484,
       "posY": 1.45999908,
-      "posZ": 9.753501,
-      "rotX": 0.00003326383,
-      "rotY": 0.0000241722464,
-      "rotZ": 0.00008372824,
+      "posZ": 9.753498,
+      "rotX": 0.0000330520525,
+      "rotY": -8.156004e-7,
+      "rotZ": 0.00008504207,
       "scaleX": 1,
       "scaleY": 1,
       "scaleZ": 1
@@ -20,7 +20,7 @@
       "g": 0,
       "b": 0
     },
-    "Locked": false,
+    "Locked": true,
     "Grid": true,
     "Snap": true,
     "IgnoreFoW": false,

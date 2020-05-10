@@ -2,12 +2,12 @@
   "Object": {
     "Name": "BlockTriangle",
     "Transform": {
-      "posX": -0.4080465,
-      "posY": 1.1742444,
+      "posX": -0.4080479,
+      "posY": 1.17424738,
       "posZ": -7.44001675,
-      "rotX": -0.0000236026863,
-      "rotY": 0.00007743937,
-      "rotZ": -0.000210714526,
+      "rotX": -0.000199015063,
+      "rotY": 0.0000463777978,
+      "rotZ": 0.0001036872,
       "scaleX": 1,
       "scaleY": 1,
       "scaleZ": 1
@@ -20,7 +20,7 @@
       "g": 0.772058845,
       "b": 0
     },
-    "Locked": false,
+    "Locked": true,
     "Grid": true,
     "Snap": true,
     "IgnoreFoW": false,

@@ -2,12 +2,12 @@
   "Object": {
     "Name": "BlockRectangle",
     "Transform": {
-      "posX": 0.11351373,
+      "posX": 0.113514028,
       "posY": 1.45999956,
-      "posZ": 0.95583266,
-      "rotX": 0.0000209941445,
-      "rotY": -0.0000103412494,
-      "rotZ": -0.000005994426,
+      "posZ": 0.955832362,
+      "rotX": 0.0000220817928,
+      "rotY": -0.000002097669,
+      "rotZ": -0.000009031885,
       "scaleX": 1,
       "scaleY": 1,
       "scaleZ": 1
@@ -20,7 +20,7 @@
       "g": 0.201567829,
       "b": 0.8235294
     },
-    "Locked": false,
+    "Locked": true,
     "Grid": true,
     "Snap": true,
     "IgnoreFoW": false,

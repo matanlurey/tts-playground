@@ -2,15 +2,15 @@
   "Object": {
     "Name": "Metal Ball",
     "Transform": {
-      "posX": 4.005277,
-      "posY": 1.81000042,
-      "posZ": -6.21757269,
-      "rotX": 0.000221183916,
-      "rotY": 5.06998832e-10,
-      "rotZ": 0.00102186122,
-      "scaleX": 2,
-      "scaleY": 2,
-      "scaleZ": 2
+      "posX": 4.00527525,
+      "posY": 1.38500059,
+      "posZ": -6.217572,
+      "rotX": 0.00009129381,
+      "rotY": -1.24126168e-10,
+      "rotZ": 0.000713792455,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
     },
     "Nickname": "",
     "Description": "",
@@ -20,7 +20,7 @@
       "g": 0.117647029,
       "b": 0.117647029
     },
-    "Locked": false,
+    "Locked": true,
     "Grid": true,
     "Snap": true,
     "IgnoreFoW": false,
