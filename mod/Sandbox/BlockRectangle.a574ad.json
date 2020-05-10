@@ -30,8 +30,7 @@
     "GridProjection": false,
     "HideWhenFaceDown": false,
     "Hands": false,
-    "XmlUI": "",
-    "LuaScript": "",
+    "LuaScript": "#include ./BlockRectangle.a574ad.lua",
     "LuaScriptState": "",
     "GUID": "a574ad"
   },
