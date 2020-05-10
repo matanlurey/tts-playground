@@ -1,7 +1,5 @@
 import * as expander from '@matanlurey/tts-expander';
-import Editor, {
-  OutgoingJsonObject,
-} from '@matanlurey/tts-editor';
+import Editor, { OutgoingJsonObject } from '@matanlurey/tts-editor';
 import * as steam from '@matanlurey/tts-runner/steam_finder';
 import * as runner from '@matanlurey/tts-runner';
 import * as fs from 'fs-extra';
