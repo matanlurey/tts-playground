@@ -1,0 +1,325 @@
+{
+  "Save": {
+    "SaveName": "Sandbox",
+    "GameMode": "Sandbox",
+    "Gravity": 0.5,
+    "PlayArea": 0.5,
+    "Date": "5/9/2020 7:57:03 PM",
+    "Table": "Table_Hexagon",
+    "Sky": "Sky_Field",
+    "Note": "",
+    "Rules": "",
+    "XmlUI": "#include ./Sandbox.xml",
+    "LuaScript": "#include ./Sandbox.lua",
+    "LuaScriptState": "",
+    "Grid": {
+      "Type": 0,
+      "Lines": false,
+      "Color": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "Opacity": 0.75,
+      "ThickLines": false,
+      "Snapping": false,
+      "Offset": false,
+      "BothSnapping": false,
+      "xSize": 2,
+      "ySize": 2,
+      "PosOffset": {
+        "x": 0,
+        "y": 1,
+        "z": 0
+      }
+    },
+    "Lighting": {
+      "LightIntensity": 0.54,
+      "LightColor": {
+        "r": 1,
+        "g": 0.9804,
+        "b": 0.8902
+      },
+      "AmbientIntensity": 1.3,
+      "AmbientType": 0,
+      "AmbientSkyColor": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5
+      },
+      "AmbientEquatorColor": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5
+      },
+      "AmbientGroundColor": {
+        "r": 0.5,
+        "g": 0.5,
+        "b": 0.5
+      },
+      "ReflectionIntensity": 1,
+      "LutIndex": 0,
+      "LutContribution": 1
+    },
+    "Hands": {
+      "Enable": true,
+      "DisableUnused": false,
+      "Hiding": 0,
+      "HandTransforms": [
+        {
+          "Color": "Red",
+          "Transform": {
+            "posX": -13.6440506,
+            "posY": 3.569769,
+            "posZ": -7.49496555,
+            "rotX": 0,
+            "rotY": 60.0000038,
+            "rotZ": 0,
+            "scaleX": 10.2746639,
+            "scaleY": 6.638144,
+            "scaleZ": 4.89690971
+          }
+        },
+        {
+          "Color": "Yellow",
+          "Transform": {
+            "posX": -13.3167267,
+            "posY": 3.56983948,
+            "posZ": 8.302039,
+            "rotX": 0,
+            "rotY": 120.000015,
+            "rotZ": 0,
+            "scaleX": 10.284234,
+            "scaleY": 6.638144,
+            "scaleZ": 4.897117
+          }
+        },
+        {
+          "Color": "Blue",
+          "Transform": {
+            "posX": 13.5757065,
+            "posY": 3.5746088,
+            "posZ": 7.75561762,
+            "rotX": -0.0000317713129,
+            "rotY": 240,
+            "rotZ": 3.88027274e-7,
+            "scaleX": 10.29825,
+            "scaleY": 6.638144,
+            "scaleZ": 4.90727234
+          }
+        },
+        {
+          "Color": "White",
+          "Transform": {
+            "posX": -0.00201702118,
+            "posY": 3.572195,
+            "posZ": -15.543,
+            "rotX": 2.5444431e-14,
+            "rotY": 0.00000170754709,
+            "rotZ": -0.00000170754709,
+            "scaleX": 10.2680635,
+            "scaleY": 6.638144,
+            "scaleZ": 4.896727
+          }
+        },
+        {
+          "Color": "Green",
+          "Transform": {
+            "posX": 0.00447559357,
+            "posY": 3.57211685,
+            "posZ": 15.6040668,
+            "rotX": 0,
+            "rotY": 180,
+            "rotZ": 0,
+            "scaleX": 10.2809935,
+            "scaleY": 6.638144,
+            "scaleZ": 4.90282249
+          }
+        },
+        {
+          "Color": "Pink",
+          "Transform": {
+            "posX": 13.6821461,
+            "posY": 3.57470512,
+            "posZ": -7.41039228,
+            "rotX": 0,
+            "rotY": 299.999969,
+            "rotZ": 0,
+            "scaleX": 10.269331,
+            "scaleY": 6.638144,
+            "scaleZ": 4.893212
+          }
+        }
+      ]
+    },
+    "Turns": {
+      "Enable": false,
+      "Type": 0,
+      "TurnOrder": [],
+      "Reverse": false,
+      "SkipEmpty": false,
+      "DisableInteractions": false,
+      "PassTurns": true,
+      "TurnColor": ""
+    },
+    "ObjectStates": [],
+    "DecalPallet": [],
+    "TabStates": {
+      "0": {
+        "title": "Rules",
+        "body": "",
+        "color": "Grey",
+        "visibleColor": {
+          "r": 0.5,
+          "g": 0.5,
+          "b": 0.5
+        },
+        "id": 0
+      },
+      "1": {
+        "title": "White",
+        "body": "",
+        "color": "White",
+        "visibleColor": {
+          "r": 1,
+          "g": 1,
+          "b": 1
+        },
+        "id": 1
+      },
+      "2": {
+        "title": "Brown",
+        "body": "",
+        "color": "Brown",
+        "visibleColor": {
+          "r": 0.443,
+          "g": 0.231,
+          "b": 0.09
+        },
+        "id": 2
+      },
+      "3": {
+        "title": "Red",
+        "body": "",
+        "color": "Red",
+        "visibleColor": {
+          "r": 0.856,
+          "g": 0.1,
+          "b": 0.094
+        },
+        "id": 3
+      },
+      "4": {
+        "title": "Orange",
+        "body": "",
+        "color": "Orange",
+        "visibleColor": {
+          "r": 0.956,
+          "g": 0.392,
+          "b": 0.113
+        },
+        "id": 4
+      },
+      "5": {
+        "title": "Yellow",
+        "body": "",
+        "color": "Yellow",
+        "visibleColor": {
+          "r": 0.905,
+          "g": 0.898,
+          "b": 0.172
+        },
+        "id": 5
+      },
+      "6": {
+        "title": "Green",
+        "body": "",
+        "color": "Green",
+        "visibleColor": {
+          "r": 0.192,
+          "g": 0.701,
+          "b": 0.168
+        },
+        "id": 6
+      },
+      "7": {
+        "title": "Blue",
+        "body": "",
+        "color": "Blue",
+        "visibleColor": {
+          "r": 0.118,
+          "g": 0.53,
+          "b": 1
+        },
+        "id": 7
+      },
+      "8": {
+        "title": "Teal",
+        "body": "",
+        "color": "Teal",
+        "visibleColor": {
+          "r": 0.129,
+          "g": 0.694,
+          "b": 0.607
+        },
+        "id": 8
+      },
+      "9": {
+        "title": "Purple",
+        "body": "",
+        "color": "Purple",
+        "visibleColor": {
+          "r": 0.627,
+          "g": 0.125,
+          "b": 0.941
+        },
+        "id": 9
+      },
+      "10": {
+        "title": "Pink",
+        "body": "",
+        "color": "Pink",
+        "visibleColor": {
+          "r": 0.96,
+          "g": 0.439,
+          "b": 0.807
+        },
+        "id": 10
+      },
+      "11": {
+        "title": "Black",
+        "body": "",
+        "color": "Black",
+        "visibleColor": {
+          "r": 0.25,
+          "g": 0.25,
+          "b": 0.25
+        },
+        "id": 11
+      }
+    },
+    "VersionNumber": "v12.3.5"
+  },
+  "ObjectPaths": [
+    "BlockSquare.dce15b.json",
+    "BlockSquare.fb13f3.json",
+    "BlockSquare.8a0879.json",
+    "BlockSquare.d2053e.json",
+    "BlockSquare.33be64.json",
+    "BlockSquare.eab346.json",
+    "BlockRectangle.830ecd.json",
+    "BlockRectangle.a574ad.json",
+    "BlockRectangle.0ec30c.json",
+    "BlockRectangle.2df203.json",
+    "BlockRectangle.53d611.json",
+    "BlockRectangle.15f1f7.json",
+    "BlockTriangle.f61f5d.json",
+    "BlockTriangle.2c6b1d.json",
+    "BlockTriangle.0ad67c.json",
+    "BlockTriangle.a46aed.json",
+    "BlockTriangle.43e030.json",
+    "BlockTriangle.621648.json",
+    "Metal Ball.2d924b.json",
+    "Bag.3dd417.json"
+  ]
+}

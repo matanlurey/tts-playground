@@ -1,0 +1,39 @@
+{
+  "Object": {
+    "Name": "BlockRectangle",
+    "Transform": {
+      "posX": 0.11351373,
+      "posY": 1.45999956,
+      "posZ": 0.95583266,
+      "rotX": 0.0000209941445,
+      "rotY": -0.0000103412494,
+      "rotZ": -0.000005994426,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "",
+    "Description": "",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0,
+      "g": 0.201567829,
+      "b": 0.8235294
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "XmlUI": "",
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "GUID": "a574ad"
+  },
+  "StatesPaths": {}
+}

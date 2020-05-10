@@ -1,0 +1,39 @@
+{
+  "Object": {
+    "Name": "Metal Ball",
+    "Transform": {
+      "posX": 4.005277,
+      "posY": 1.81000042,
+      "posZ": -6.21757269,
+      "rotX": 0.000221183916,
+      "rotY": 5.06998832e-10,
+      "rotZ": 0.00102186122,
+      "scaleX": 2,
+      "scaleY": 2,
+      "scaleZ": 2
+    },
+    "Nickname": "",
+    "Description": "",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.117647029,
+      "g": 0.117647029,
+      "b": 0.117647029
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "XmlUI": "",
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "GUID": "2d924b"
+  },
+  "StatesPaths": {}
+}

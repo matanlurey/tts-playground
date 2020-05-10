@@ -1,0 +1,40 @@
+{
+  "Object": {
+    "Name": "Chess_Pawn",
+    "Transform": {
+      "posX": -8.246485,
+      "posY": 4.19636726,
+      "posZ": 4.09191036,
+      "rotX": -0.0000947874141,
+      "rotY": 90,
+      "rotZ": 0.000108801323,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "",
+    "Description": "",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0,
+      "g": 0,
+      "b": 0
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "MaterialIndex": 1,
+    "XmlUI": "",
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "GUID": "3645f2"
+  },
+  "StatesPaths": {}
+}

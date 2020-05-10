@@ -1,0 +1,46 @@
+{
+  "Object": {
+    "Name": "Bag",
+    "Transform": {
+      "posX": -8.395914,
+      "posY": 0.774965644,
+      "posZ": 6.615762,
+      "rotX": 0.000021756221,
+      "rotY": 0.0000168153383,
+      "rotZ": -0.00000337340316,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "Bag of Pawns",
+    "Description": "",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.7058823,
+      "g": 0.366520882,
+      "b": 0
+    },
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "MaterialIndex": -1,
+    "MeshIndex": -1,
+    "XmlUI": "",
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "ContainedObjects": [],
+    "GUID": "3dd417"
+  },
+  "StatesPaths": {},
+  "ContainedObjectPaths": [
+    "Chess_Pawn.9f2f1d.json",
+    "Chess_Pawn.3645f2.json"
+  ]
+}
