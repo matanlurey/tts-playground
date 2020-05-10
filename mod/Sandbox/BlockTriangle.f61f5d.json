@@ -1,0 +1,39 @@
+{
+  "Object": {
+    "Name": "BlockTriangle",
+    "Transform": {
+      "posX": 1.114587,
+      "posY": 1.17424464,
+      "posZ": -4.046369,
+      "rotX": 0.0000301191667,
+      "rotY": -0.0000145163476,
+      "rotZ": -0.00004306515,
+      "scaleX": 1,
+      "scaleY": 1,
+      "scaleZ": 1
+    },
+    "Nickname": "",
+    "Description": "",
+    "GMNotes": "",
+    "ColorDiffuse": {
+      "r": 0.00539905,
+      "g": 0.772058845,
+      "b": 0
+    },
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "XmlUI": "",
+    "LuaScript": "",
+    "LuaScriptState": "",
+    "GUID": "f61f5d"
+  },
+  "StatesPaths": {}
+}

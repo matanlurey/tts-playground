@@ -1,25 +1,31 @@
 {
-  "name": "@matanlurey/node-typescript-template",
+  "name": "@matanlurey/tts-playground",
   "version": "0.1.0",
-  "description": "Node.js template for TypeScript",
+  "description": "A demo mod for Tabletop Simulator",
   "scripts": {
-    "fix": "prettier --write . --ignore-path .gitignore && eslint --fix src test --ext .ts",
-    "lint": "prettier --ignore-path .gitignore --list-different src && eslint src test --ext .ts",
+    "extract": "ts-node ./tool/extract.ts",
+    "fix": "prettier --write . --ignore-path .prettierignore && eslint --fix src test --ext .ts",
+    "lint": "prettier --ignore-path .prettierignore --list-different src && eslint src test --ext .ts",
+    "start": "ts-node ./src/index.ts",
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matanlurey/node-typescript-template.git"
+    "url": "git+https://github.com/matanlurey/tts-playground.git"
   },
   "main": "src/index.ts",
   "author": "Matan Lurey",
-  "keywords": [],
   "license": "MIT",
   "devDependencies": {
+    "@matanlurey/tts-editor": "github:matanlurey/tts-editor#dist",
+    "@matanlurey/tts-expander": "github:matanlurey/tts-expander#dist",
+    "@matanlurey/tts-runner": "github:matanlurey/tts-runner#dist",
+    "@matanlurey/tts-save-files": "github:matanlurey/tts-save-format",
     "@types/fs-extra": "^8.1.0",
     "@types/jest": "^25.2.1",
     "@typescript-eslint/eslint-plugin": "^2.30.0",
     "@typescript-eslint/parser": "^2.30.0",
+    "chokidar": "^3.4.0",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.11.0",
     "eslint-plugin-import": "^2.20.2",
